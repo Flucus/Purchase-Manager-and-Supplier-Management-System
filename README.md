@@ -3,7 +3,7 @@ Web Application for Purchase Manager and Supplier Management
 
 Introduction:
 <br>
-This GitHub repository contains a web application designed to facilitate the management of purchase orders and supplier items. The application is built using various software development skills, including HTML, CSS, JavaScript, PHP, SQL commands, and Python. It aims to provide a user-friendly, interactive, robust, and easy-to-maintain platform for purchase managers and suppliers to carry out their respective functions efficiently.
+This GitHub repository contains a web application designed to facilitate the management of purchase orders and supplier items. The application is built using various software development skills, including HTML, CSS, PHP, SQL commands, and Python. It aims to provide a user-friendly, interactive, robust, and easy-to-maintain platform for purchase managers and suppliers to carry out their respective functions efficiently.
 
 Simplified Procedure:
 <br>
